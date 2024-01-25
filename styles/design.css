@@ -1,5 +1,5 @@
-header{
-    background: linear-gradient(rgba(1, 1, 5, 0.568), rgba(0, 0, 0, 0.40)),  url("../Banner\ Image.png");
+header {
+    background: linear-gradient(rgba(1, 1, 5, 0.568), rgba(0, 0, 0, 0.40)), url("../Banner\ Image.png");
     background-repeat: no-repeat;
     margin-left: 100px;
     margin-right: 80px;
@@ -7,22 +7,108 @@ header{
     background-size: cover;
     border-radius: 16px;
 }
-.container{
+
+.container {
     padding-top: 100px;
     padding-bottom: 110px;
     text-align: center;
     color: #FFF;
     font-family: Merriweather;
 }
-.container>h1>span{
+
+.container>h1>span {
     display: block;
 }
-.container>h3{
+
+.container>h3 {
     font-size: 32px;
     font-weight: 400;
 }
-.container>h1{
+
+.container>h1 {
     font-size: 72px;
     font-weight: 900;
 }
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+
+    font-weight: 700;
+
+}
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+
+font-weight: 500;
+
+}
+.all{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+
+font-weight: 700;
+line-height: 0px;
+
+}
+    
+.New-Year-Photo{
+    display: block;
+    margin: auto;
+}
+.bc-image{
+    background: linear-gradient(rgba(1, 1, 5, 0.568), rgba(0, 0, 0, 0.40)), url(../Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 16px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    position: relative;
+}
+.text-container{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    padding-left: 110px;
+}
+.text-container>h1{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+
+font-weight: 900;
+}
+.text-container>h1>span{
+    display: block;
+}
+.text-container>p{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+
+font-weight: 400;
+padding-right: 420px;
+}
+.text-container>button{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 700;
+margin-left: 35px;
+margin-top: 50px;
+
+background: none;
+
+
+}
+
 
